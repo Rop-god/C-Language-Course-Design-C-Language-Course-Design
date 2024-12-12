@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="KECHNEGSHIXI" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\KECHNEGSHIXI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\KECHNEGSHIXI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="admin menu.cpp" />
+		<Unit filename="alter goods.cpp" />
+		<Unit filename="check all goods list.cpp" />
+		<Unit filename="check all goods.cpp" />
+		<Unit filename="check all users.cpp" />
+		<Unit filename="check goods list.cpp" />
+		<Unit filename="check goods.cpp" />
+		<Unit filename="check information.cpp" />
+		<Unit filename="check order.cpp" />
+		<Unit filename="check product.cpp" />
+		<Unit filename="delete users.cpp" />
+		<Unit filename="dijia.cpp" />
+		<Unit filename="list.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="modify information.cpp" />
+		<Unit filename="off goods.cpp" />
+		<Unit filename="off shelf goods.cpp" />
+		<Unit filename="personal_information.cpp" />
+		<Unit filename="print.cpp" />
+		<Unit filename="publish goods.cpp" />
+		<Unit filename="purshchase goods.cpp" />
+		<Unit filename="recharge.cpp" />
+		<Unit filename="regster.cpp" />
+		<Unit filename="saiwen.h" />
+		<Unit filename="search all goods.cpp" />
+		<Unit filename="search goods.cpp" />
+		<Unit filename="ulogin.cpp" />
+		<Unit filename="user_buyer.cpp" />
+		<Unit filename="user_menu.cpp" />
+		<Unit filename="user_seller.cpp" />
+		<Unit filename="view goods.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

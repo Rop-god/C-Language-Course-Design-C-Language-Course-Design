@@ -1,0 +1,360 @@
+# depslib dependency file v1.0
+1687969243 source:d:\kechnegshixi\dijia.cpp
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:d:\kechnegshixi\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688014341 d:\kechnegshixi\saiwen.h
+	"list.h"
+
+1687970785 source:d:\kechnegshixi\regster.cpp
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:d:\kechnegshixi\ulogin.cpp
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688014508 d:\kechnegshixi\list.h
+	<string>
+
+1687969244 source:d:\kechnegshixi\print.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:d:\kechnegshixi\user_menu.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688093302 source:d:\kechnegshixi\user_buyer.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:d:\kechnegshixi\personal_information.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688106873 source:d:\kechnegshixi\user_seller.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688109864 source:d:\kechnegshixi\alter goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:d:\kechnegshixi\check goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:d:\kechnegshixi\check order.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688111819 source:d:\kechnegshixi\off goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688110560 source:d:\kechnegshixi\publish goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:d:\kechnegshixi\check goods list.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688093042 source:d:\kechnegshixi\check product.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:d:\kechnegshixi\purshchase goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:d:\kechnegshixi\search goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688018341 source:d:\kechnegshixi\view goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:d:\kechnegshixi\check information.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:d:\kechnegshixi\recharge.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688094754 source:d:\kechnegshixi\modify information.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688113011 source:d:\kechnegshixi\delete users.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688093424 source:d:\kechnegshixi\admin menu.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:d:\kechnegshixi\check all goods list.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:d:\kechnegshixi\check all goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688018341 source:d:\kechnegshixi\check all users.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:d:\kechnegshixi\off shelf goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688093424 source:d:\kechnegshixi\search all goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687967862 source:d:\kechnegshixi\bianlianguser.cpp
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688093424 source:f:\kechnegshixi\admin menu.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688014341 f:\kechnegshixi\saiwen.h
+	"list.h"
+
+1688014508 f:\kechnegshixi\list.h
+	<string>
+
+1688109864 source:f:\kechnegshixi\alter goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:f:\kechnegshixi\check all goods list.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:f:\kechnegshixi\check all goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688018341 source:f:\kechnegshixi\check all users.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:f:\kechnegshixi\check goods list.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:f:\kechnegshixi\check goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:f:\kechnegshixi\check information.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:f:\kechnegshixi\check order.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688093042 source:f:\kechnegshixi\check product.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688113011 source:f:\kechnegshixi\delete users.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:f:\kechnegshixi\dijia.cpp
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969243 source:f:\kechnegshixi\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688094754 source:f:\kechnegshixi\modify information.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688111819 source:f:\kechnegshixi\off goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:f:\kechnegshixi\off shelf goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:f:\kechnegshixi\personal_information.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:f:\kechnegshixi\print.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688110560 source:f:\kechnegshixi\publish goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:f:\kechnegshixi\purshchase goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:f:\kechnegshixi\recharge.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687970785 source:f:\kechnegshixi\regster.cpp
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688093424 source:f:\kechnegshixi\search all goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:f:\kechnegshixi\search goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:f:\kechnegshixi\ulogin.cpp
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688093302 source:f:\kechnegshixi\user_buyer.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1687969244 source:f:\kechnegshixi\user_menu.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688106873 source:f:\kechnegshixi\user_seller.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
+1688018341 source:f:\kechnegshixi\view goods.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"saiwen.h"
+	"list.h"
+
